@@ -1,0 +1,39 @@
+_repo: Harry-Muir-b-A-story-of-Scottish-life-vol-3-of-3_73086
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oliphant, Mrs. (Margaret)
+    aliases:
+    - Oliphant, Margaret Oliphant Wilson
+    - Mrs. (Margaret) Oliphant
+    - Olyphant, Mrs.
+    - Oliphant, M. O. W. (Margaret Oliphant Wilson)
+    - Oliphant, Mrs. Margaret
+    - Oliphant, Mrs.
+    - Wilson, Margaret
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '963'
+    url: http://www.gutenberg.org/2009/agents/963
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
+description: ''
+gutenberg_issued: '2024-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73086'
+language: en
+pgterms:marc904: https://archive.org/details/harrymuirstoryof03olip
+pgterms:marc905: 20210205071659oliphant
+pgterms:marc906: '1853'
+pgterms:marc907: GB
+production_note: Susan Skinner, Eleni Christofaki and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bHurst and Blackett, $c1853.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Harry Muir : $b A story of Scottish life, vol. 3 (of 3)'
+url: http://www.gutenberg.org/ebooks/73086
